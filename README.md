@@ -30,6 +30,4 @@ streamlit run app.py
 
 This app was developed as part of a 9th CASSINI Hackathon project to show how EU space data (Copernicus Emergency Management Service) can support proactive healthcare in emergency scenarios, with a focus on prevention.
 
-See the demo below.
-
-<video controls src="demo.mp4" title="Demo"></video>
+[Click here to see the demo.](demo.mp4)
