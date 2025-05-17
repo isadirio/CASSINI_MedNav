@@ -2,9 +2,9 @@
 MedNav is a prototype Streamlit application that demonstrates how satellite data can be used to anticipate health risks from natural disasters and recommend tailored medical prevention kits. This version focuses on volcanic emergencies, such as lava flows and ash exposure.
 
 ### 🚀 Features
-🔥 Visualization of volcanic activity via video (lava_evolution.mp4)
+🔥 Visualization of emergency case (ex. volcanic eruption)
 
-💬 Sidebar chat simulation with a virtual health assistant
+💬 Sidebar chat simulation with an AI-powered virtual assistant
 
 🧰 Dynamic prevention kit suggestions based on user queries
 
