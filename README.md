@@ -1,7 +1,9 @@
 # 🛰️ MedNav – Smart Prevention Navigator
+
 MedNav is a prototype Streamlit application that demonstrates how satellite data can be used to anticipate health risks from natural disasters and recommend tailored medical prevention kits. This version focuses on volcanic emergencies, such as lava flows and ash exposure.
 
 ### 🚀 Features
+
 🔥 Visualization of emergency case (ex. volcanic eruption)
 
 💬 Sidebar chat simulation with an AI-powered virtual assistant
@@ -13,6 +15,7 @@ MedNav is a prototype Streamlit application that demonstrates how satellite data
 🧭 Two-column responsive layout with clear UI
 
 ### ▶️ How to Run
+
 Clone the repository
 
 Install dependencies:
@@ -24,4 +27,9 @@ Run the app:
 streamlit run app.py
 
 ### 📚 Use Case
+
 This app was developed as part of a 9th CASSINI Hackathon project to show how EU space data (Copernicus Emergency Management Service) can support proactive healthcare in emergency scenarios, with a focus on prevention.
+
+See the demo below.
+
+<video controls src="demo.mp4" title="Demo"></video>
